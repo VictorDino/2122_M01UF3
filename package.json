@@ -1,0 +1,22 @@
+{
+  "name": "2122_m01uf3",
+  "version": "1.0.0",
+  "description": "proyecto de base de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorDino/2122_M01UF3.git"
+  },
+  "author": "Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorDino/2122_M01UF3/issues"
+  },
+  "homepage": "https://github.com/VictorDino/2122_M01UF3#readme",
+  "dependencies": {
+    "mongodb": "^4.3.1"
+  }
+}
